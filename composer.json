@@ -1,0 +1,14 @@
+{
+    "name": "ziganshinalexey/yii2-steam-user",
+    "description": "Подсистема управления профилями пользователей",
+    "license": "mit",
+    "require": {
+        "php": "^7.2.0",
+        "yiisoft/yii2": "^2.0.13"
+    },
+    "autoload": {
+        "psr-4": {
+            "Ziganshinalexey\\Yii2SteamUser\\": ""
+        }
+    }
+}
